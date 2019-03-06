@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "conventional-commit-types": "^2.0.0",
-    "lodash.map": "^4.5.1",
+    "lodash": "^4.17.11",
     "longest": "^1.0.1",
     "right-pad": "^1.0.1",
     "word-wrap": "^1.0.3"
@@ -27,7 +27,7 @@
     "semantic-release": "^6.3.2"
   },
   "config": {
-    "commitizen" : {
+    "commitizen": {
       "path": "./index.js"
     }
   }
